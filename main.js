@@ -10,9 +10,9 @@ function updatePreview(){
 
 function setDefault(){
     let defaultText = `\
-# Useful Programmer
+# Hernán Mele
 ## a markdown previewer
-[Learn more about UsefulProgrammer.org](http://www.usefulprogrammer.com).
+[Learn more about me](http://www.example.com).
 
 ***very well***
 
@@ -34,7 +34,7 @@ return multilineCodeBlock;
 
 > This is an example of block quote
 
-![Useful Programmer](https://passion-stickers.com/3877-large_default/tarja-turunen-decals.jpg)
+![Hernan Mele](https://passion-stickers.com/3877-large_default/tarja-turunen-decals.jpg)
 
 **This is an example of Bolded text**
 `;
